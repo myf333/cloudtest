@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-gateway" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-client" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config-client" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-server" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config-server" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/consumer" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/consumer" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dashboard" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/dashboard" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/feign-consumer" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/feign-consumer" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/register" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/register" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/service" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/service" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="E:/gitproject/CloudTest/consumer" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="E:/gitproject/CloudTest/consumer" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="E:/gitproject/CloudTest/register" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="E:/gitproject/CloudTest/register" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="E:/gitproject/CloudTest/service" />
+        <option name="gradleHome" value="D:/java/gradle-3.2.1" />
+        <option name="modules">
+          <set>
+            <option value="E:/gitproject/CloudTest/service" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

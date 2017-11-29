@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="api-gateway_main" target="1.8" />
+      <module name="api-gateway_test" target="1.8" />
+      <module name="config-client_main" target="1.8" />
+      <module name="config-client_test" target="1.8" />
+      <module name="config-server_main" target="1.8" />
+      <module name="config-server_test" target="1.8" />
+      <module name="consumer_main" target="1.8" />
+      <module name="consumer_test" target="1.8" />
+      <module name="dashboard_main" target="1.8" />
+      <module name="dashboard_test" target="1.8" />
+      <module name="feign-consumer_main" target="1.8" />
+      <module name="feign-consumer_test" target="1.8" />
+      <module name="register_main" target="1.8" />
+      <module name="register_test" target="1.8" />
+      <module name="service_main" target="1.8" />
+      <module name="service_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

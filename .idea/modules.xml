@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway_main.iml" group="api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway_test.iml" group="api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client_main.iml" group="config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client_test.iml" group="config-client" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_main.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/consumer_main.iml" group="consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/consumer_test.iml" group="consumer" />
+      <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard_main.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard_test.iml" group="dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/feign-consumer/feign-consumer.iml" filepath="$PROJECT_DIR$/feign-consumer/feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/feign-consumer_main.iml" group="feign-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/feign-consumer_test.iml" group="feign-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register.iml" filepath="$PROJECT_DIR$/.idea/modules/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register_main.iml" filepath="$PROJECT_DIR$/.idea/modules/register_main.iml" group="register" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/register_test.iml" filepath="$PROJECT_DIR$/.idea/modules/register_test.iml" group="register" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service_test.iml" group="service" />
+    </modules>
+  </component>
+</project>
